@@ -1,1 +1,1 @@
-This SDK has been deprecated. A new version of the SDK, with support for OAuth, the Graph API, and other new features, is available at http://github.com/facebook/facebook-ios-sdk.
+This SDK has been deprecated. A new version of the SDK, with support for OAuth, the Graph API, and other new features, is available at [http://github.com/facebook/facebook-ios-sdk](http://github.com/facebook/facebook-ios-sdk).
